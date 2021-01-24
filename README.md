@@ -17,7 +17,8 @@
 ## Quick start
 
 - in order to run this code you should install `python3` on your machine `pip install python3`
-- Clone the repo `git clone `
+- install PYQT5 `pip install PYQT5`
+- Clone the repo `git clone https://github.com/omarmohamed101/You-tube.git`
 
 ## installation
 
