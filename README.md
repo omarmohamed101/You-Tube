@@ -3,7 +3,7 @@
   <img src="yt.PNG" alt="project running"  height="300px"/>
   <br>
   <i>Quickly calculating the playlist length and number of videos instead of doing it by hand
-    <br>extremly useful with the very long play list</i>
+    <br>extremly useful with very long playlists</i>
   <br>
 </p>
 
